@@ -2,7 +2,7 @@
 
 ## 🏅 Certifications
 
-[![HackerRank Python](https://www.hackerrank.com/certificates/3e64f6b58876)]
+https://www.hackerrank.com/certificates/3e64f6b58876
 
 Here are some ideas to get you started:
 
